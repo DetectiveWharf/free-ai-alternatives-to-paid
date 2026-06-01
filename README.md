@@ -8,7 +8,7 @@ ______                  ___    ____
 
 # Free AI Alternatives to Paid
 
-> free cursor alternative, free copilot alternative, free chatgpt plus alternative, best free ai 2026.
+> free cursor alternative, free copilot alternative, free chatgpt plus alternative, best free ai 2026. for Windows
 
 **free-ai-alternatives** | **free-tools** | **open-source-ai** | **ai-alternatives** | **free-software**
 
@@ -18,9 +18,9 @@ ______                  ___    ____
 
 - free cursor alternative, free copilot alternative, free chatgpt plus alternative, best free ai 2026.
 - Full build: free copilot alternative, free chatgpt plus alternative, best free ai 2026, paid ai vs free, free ai tools list.
-- Platform: Windows macOS Linux
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS Linux
+**Platform:** Windows 10/11 x64
 
 ---
 
